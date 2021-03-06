@@ -1,4 +1,9 @@
-# Automated Backup (Many) MySQL & Upload to Google Drive with PHP
+# MySQL to GDrive
+
+## Description
+Tools for backup active mysql database to Google Drive automatically, with PHP
+
+## Guide
 
 - Clone this repo
 - Composer update
